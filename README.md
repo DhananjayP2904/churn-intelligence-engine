@@ -66,9 +66,7 @@ scheduler/
 
 ## 📈 Dashboard Pages
 1. Executive Overview — Revenue, orders, KPIs over time
-2. Sales & Product Insights — Category performance, payment mix
-3. Customer Behavior — RFM segments, geographic distribution
-4. Churn Intelligence — Risk scores, AI briefs, revenue at risk
+2. Churn Intelligence — Risk scores, AI briefs, revenue at risk
 
 ---
 
