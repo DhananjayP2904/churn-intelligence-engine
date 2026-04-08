@@ -1,0 +1,21 @@
+# Ignore data files
+Data/
+
+# Ignore databases
+*.db
+
+# Ignore CSVs
+*.csv
+
+# Ignore models
+*.pkl
+
+# Ignore cache
+__pycache__/
+*.pyc
+
+# Ignore IDE files
+.idea/
+
+# Ignore environment files
+.env
