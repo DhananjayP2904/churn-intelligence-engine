@@ -65,8 +65,11 @@ scheduler/
 ---
 
 ## 📈 Dashboard Pages
-1. Executive Overview — Revenue, orders, KPIs over time
-2. Churn Intelligence — Risk scores, AI briefs, revenue at risk
+### Business Performance
+![Page1](images/dashboard_page1.png)
+
+### Churn Intelligence
+![Page2](images/dashboard_page2.png)
 
 ---
 
